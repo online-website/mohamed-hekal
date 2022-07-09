@@ -1,0 +1,31 @@
+.footer {
+  text-align: center;
+  padding: 0 5vw ;
+
+  
+
+  .image-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  img {
+    width: 80%;
+    text-align: center;
+  }
+}
+
+.buttomFooter {
+  background-color: #e2a9b3;
+  width: 100%;
+  text-align: center;
+  svg {
+    color: red;
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+    justify-content: center;
+  }
+}
