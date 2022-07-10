@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mohamed-hekel/static/css/main.d618564a.css",
+    "main.css": "/mohamed-hekel/static/css/main.f9eebc9e.css",
     "main.js": "/mohamed-hekel/static/js/main.54fc260f.js",
     "static/media/abc.png": "/mohamed-hekel/static/media/abc.c53806a63a1f0b371d46.png",
     "static/media/lap.png": "/mohamed-hekel/static/media/lap.9325cfb8ea1914f64f0d.png",
@@ -12,11 +12,11 @@
     "static/media/revicons.ttf": "/mohamed-hekel/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/mohamed-hekel/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/mohamed-hekel/index.html",
-    "main.d618564a.css.map": "/mohamed-hekel/static/css/main.d618564a.css.map",
+    "main.f9eebc9e.css.map": "/mohamed-hekel/static/css/main.f9eebc9e.css.map",
     "main.54fc260f.js.map": "/mohamed-hekel/static/js/main.54fc260f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d618564a.css",
+    "static/css/main.f9eebc9e.css",
     "static/js/main.54fc260f.js"
   ]
 }
