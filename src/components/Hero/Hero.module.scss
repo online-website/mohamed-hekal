@@ -1,6 +1,10 @@
 .hero {
-  height: auto;
+  height: calc(100vh -7rem);
   padding-top: 20vh;
+
+  @media (max-height: 600px) {
+    height: auto;
+  }
 
   &__text-box {
     display: flex;
