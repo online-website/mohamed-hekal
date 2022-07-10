@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mohamed-hekel/static/css/main.f9eebc9e.css",
-    "main.js": "/mohamed-hekel/static/js/main.54fc260f.js",
+    "main.css": "/mohamed-hekel/static/css/main.8e7cc4a2.css",
+    "main.js": "/mohamed-hekel/static/js/main.19da3eaf.js",
     "static/media/abc.png": "/mohamed-hekel/static/media/abc.c53806a63a1f0b371d46.png",
     "static/media/lap.png": "/mohamed-hekel/static/media/lap.9325cfb8ea1914f64f0d.png",
     "static/media/source.png": "/mohamed-hekel/static/media/source.a5b32ffe280d6a220011.png",
@@ -12,11 +12,11 @@
     "static/media/revicons.ttf": "/mohamed-hekel/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/mohamed-hekel/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/mohamed-hekel/index.html",
-    "main.f9eebc9e.css.map": "/mohamed-hekel/static/css/main.f9eebc9e.css.map",
-    "main.54fc260f.js.map": "/mohamed-hekel/static/js/main.54fc260f.js.map"
+    "main.8e7cc4a2.css.map": "/mohamed-hekel/static/css/main.8e7cc4a2.css.map",
+    "main.19da3eaf.js.map": "/mohamed-hekel/static/js/main.19da3eaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9eebc9e.css",
-    "static/js/main.54fc260f.js"
+    "static/css/main.8e7cc4a2.css",
+    "static/js/main.19da3eaf.js"
   ]
 }
