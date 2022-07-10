@@ -1,5 +1,5 @@
 .hero {
-  height: calc(100vh -7rem);
+  height: calc(100vh - (7rem + 30vh));
   padding-top: 20vh;
 
   @media (max-height: 600px) {
