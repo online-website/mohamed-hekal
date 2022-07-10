@@ -21,9 +21,13 @@
 }
 
   &__image-box {
-
+    text-align: center;
     &__image {
       width: 100vw;
+
+      @media (min-width: 1000px) {
+        width: 50vw;
+      }
     }
 
 }
