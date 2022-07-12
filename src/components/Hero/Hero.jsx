@@ -12,7 +12,7 @@ const Hero = (props) => {
         whileInView={{ x: [-100, 0],opacity: [0, 1]}}
         className={classes["hero__text-box"]}
       >
-        <p>أحصل علي تجربه زي الخرا في تعلم اللغه الإنجليزيه</p>
+        <p>أحصل علي تجربه متميزة في تعلم اللغه الإنجليزيه</p>
       </motion.div>
       <motion.div
         transition={{duration: 0.7, type: "spring"}}
