@@ -41,7 +41,7 @@ const Dates = () => {
         <Date firstDay={"3 , 6"} secondDay={"3"} title={"ثالثه إعدادي"}/>
         <Date firstDay={"1"} secondDay={"4 , 6"} title={"أولي ثانوي"}/>
         <Date firstDay={"2"} secondDay={"5"} title={"ثانيه ثانوي"}/>
-        <Date firstDay={"7"} secondDay={`7 عام`} thirdDay={"6 أزهر"} title={"ثالثه ثانوي"}/>
+        <Date firstDay={"7 صباحا"} secondDay={`7 عام`} thirdDay={"6 أزهر"} title={"ثالثه ثانوي"}/>
       </Carousel>
     </section>
   );

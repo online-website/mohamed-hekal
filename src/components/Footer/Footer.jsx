@@ -12,12 +12,19 @@ const Footer = () => {
           <img src={success} alt={"success"} />
         </div>
       </section>
-      {/* <footer className={classes.buttomFooter}>
-        <p>
-          made with <AiFillHeart /> by{" "}
-          <a style={{ textDecoration: "underline" }}>abdelrahman ahmed</a>
-        </p>
-      </footer> */}
+    {/* <footer className={classes.buttomFooter}>
+      <p>
+        made by{" "}
+        <a
+          target="_blank"
+          href="https://abdelrahman.website"
+          rel="noreferrer"
+          style="text-decoration: underline; color: rgb(103, 65, 217);"
+        >
+          abdelrahman ahmed
+        </a>
+      </p>
+    </footer> */}
     </Fragment>
   );
 };

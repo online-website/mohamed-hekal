@@ -19,3 +19,13 @@
   -ms-border-radius: 20px ;
   -o-border-radius: 20px ;
 }
+
+@media (min-width: 900px) {
+
+    .card {
+      p {
+        font-size: 30px;
+      }
+    }
+  
+}

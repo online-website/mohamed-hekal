@@ -19,9 +19,9 @@ const Services = () => {
   return (
     <section className={classes.services}>
       <div className={classes.cards}>
-      <Card odd={true} image={lap} text={"تعليم تفاعلي بواسطة أحدث الطرق التعليميه"}/>
-      <Card image={source} text={"نوفر أفضل المصادر والمراجع التعليميه"}/>
-      <Card odd={true} image={cer} text={"نساعدك في الحصول علي أعلي الدرجات"}/>
+      <Card odd={true} image={lap} text={"تعليم تفاعلي بواسطة أحدث الطرق التعليميه"} className={classes.card}/>
+      <Card image={source} text={"نوفر أفضل المصادر والمراجع التعليميه"} className={classes.card}/>
+      <Card odd={true} image={cer} text={"نساعدك في الحصول علي أعلي الدرجات"} className={classes.card}/>
       </div>
     </section>
   );
