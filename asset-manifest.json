@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mohamed-hekal/static/css/main.c3bee635.css",
-    "main.js": "/mohamed-hekal/static/js/main.a1c285a6.js",
+    "main.css": "/mohamed-hekal/static/css/main.e893e6bf.css",
+    "main.js": "/mohamed-hekal/static/js/main.c3224588.js",
     "static/media/abc.png": "/mohamed-hekal/static/media/abc.c53806a63a1f0b371d46.png",
     "static/media/lap.png": "/mohamed-hekal/static/media/lap.9325cfb8ea1914f64f0d.png",
     "static/media/source.png": "/mohamed-hekal/static/media/source.a5b32ffe280d6a220011.png",
@@ -12,11 +12,11 @@
     "static/media/revicons.ttf": "/mohamed-hekal/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/mohamed-hekal/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/mohamed-hekal/index.html",
-    "main.c3bee635.css.map": "/mohamed-hekal/static/css/main.c3bee635.css.map",
-    "main.a1c285a6.js.map": "/mohamed-hekal/static/js/main.a1c285a6.js.map"
+    "main.e893e6bf.css.map": "/mohamed-hekal/static/css/main.e893e6bf.css.map",
+    "main.c3224588.js.map": "/mohamed-hekal/static/js/main.c3224588.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3bee635.css",
-    "static/js/main.a1c285a6.js"
+    "static/css/main.e893e6bf.css",
+    "static/js/main.c3224588.js"
   ]
 }
