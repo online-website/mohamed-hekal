@@ -36,12 +36,12 @@ const Dates = () => {
         infinite={true}
         className={"dates__container"}
       >
-        <Date firstDay={"5"} secondDay={"7"} title={"أولي إعدادي"}/>
-        <Date firstDay={"5"} secondDay={"7"} title={"ثانيه إعدادي"}/>
-        <Date firstDay={"5"} secondDay={"7"} title={"ثالثه إعدادي"}/>
-        <Date firstDay={"5"} secondDay={"7"} title={"أولي ثانوي"}/>
-        <Date firstDay={"5"} secondDay={"7"} title={"ثانيه ثانوي"}/>
-        <Date firstDay={"5"} secondDay={"7"} title={"ثالثه ثانوي"}/>
+        <Date firstDay={"4"} secondDay={"2"} title={"أولي إعدادي"}/>
+        <Date firstDay={"5"} secondDay={"1"} title={"ثانيه إعدادي"}/>
+        <Date firstDay={"3 , 6"} secondDay={"3"} title={"ثالثه إعدادي"}/>
+        <Date firstDay={"1"} secondDay={"4 , 6"} title={"أولي ثانوي"}/>
+        <Date firstDay={"2"} secondDay={"5"} title={"ثانيه ثانوي"}/>
+        <Date firstDay={"7"} secondDay={`7 عام`} thirdDay={"6 أزهر"} title={"ثالثه ثانوي"}/>
       </Carousel>
     </section>
   );
